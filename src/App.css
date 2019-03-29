@@ -1,0 +1,26 @@
+
+header{
+  text-align: center;
+}
+.searchBar{
+  text-align: center;
+}
+.container{
+  margin: auto;
+}
+.BookRecord{
+  width: 100%;
+  padding: 15px;
+}
+.leftnav{
+  text-align: left;
+  margin-left: 15px;
+}
+.rightnav{
+  text-align: right;
+  margin-right: 15px;
+}
+.Loading{
+  text-align: center;
+  color:blue;
+}
